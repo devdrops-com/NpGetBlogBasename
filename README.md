@@ -1,0 +1,2 @@
+# NpGetBlogBasename
+Movable Type plugin
