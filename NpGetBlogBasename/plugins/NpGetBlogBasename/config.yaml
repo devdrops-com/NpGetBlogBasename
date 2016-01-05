@@ -1,0 +1,12 @@
+id: NpGetBlogBasename
+name: <__trans phrase="Sample Plugin function tag">
+version: 1.0
+description: <__trans phrase="_PLUGIN_DESCRIPTION">
+author_name: <__trans phrase="_PLUGIN_AUTHOR">
+author_link: http://www.example.com/about/
+doc_link: http://www.example.com/docs/
+l10n_class: NpGetBlogBasename::L10N
+
+tags:
+    function:
+        NpBlogBasename: $NpGetBlogBasename::NpGetBlogBasename::Tags::_hdlr_get_blog_basename
